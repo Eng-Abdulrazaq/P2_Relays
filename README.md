@@ -6,5 +6,5 @@ The simulation was made by [TINKERCAD](https://www.tinkercad.com/)
 
 Click the image to see vidoe of the simulation on Youtube.
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Y86Pu44hRWo/0.jpg)](https://youtu.be/Y86Pu44hRWo)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/iUKPiVozxZE/0.jpg)](https://youtu.be/iUKPiVozxZE)
 
